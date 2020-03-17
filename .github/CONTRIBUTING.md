@@ -1,6 +1,11 @@
+CONTRIBUTING: note license.
+
+This is to be more explicit about the contribution process and license.
+
+ 
 # Contributing
 
-Contributions to this project are [released](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license) to the public under the [project's open source license](LICENSE).
+Contributions to this project are [released](https://help.github.com/ruzyysmartt/github-services-repository/articles/github-terms-of-service/#6-contributions-under-repository-license) to the public under the [project's open source license](LICENSE).
 
 This project adheres to the [Open Code of Conduct][code-of-conduct]. By participating, you are expected to uphold this.
 
@@ -13,6 +18,10 @@ GitHub will only accept pull requests to existing services that implement bug fi
 
 All pull requests will be reviewed by multiple GitHub staff members before being merged. To allow ample time for review, testing and deployment, there may be a substantial delay between the pull request being created and the pull request being merged by GitHub's staff.
 
-[code-of-conduct]: http://todogroup.org/opencodeofconduct/#GitHub%20Services/opensource@github.com
-[webhooks]: https://developer.github.com/webhooks/
-[github-marketplace]: https://github.com/marketplace
+[code-of-conduct]: http://todogroup.org/opencodeofconduct/#GitHub%20Services/ruzyysmartt/github-services-repository/opensource@github.com
+[webhooks]: https://developer.github.com/ruzyysmartt/webhooks/#ping
+[github-marketplace]: https://github.com/ruzyysmartt/github-services-repository/marketplace
+More info:
+https://github.com/52005723+ruzyysmartt/github-services-repository.git
+
+©GitHub.2020
